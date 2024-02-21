@@ -1,0 +1,12 @@
+#container{
+    border: dotted 5px lawngreen;
+    margin: 0 20%;
+    padding:20px 50px;
+
+}
+p{
+border: solid 2px green;
+margin: 5%;
+padding: 20px;
+border-radius: 20px 10px;
+}
